@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+@media only screen and (width: 1280px) {
+	
+	.main{height: 463px !important;}	
+	
+	.sidebar{height: 474px !important;}
+	
+	.my_cat{height:180px !important;}
+}
+
+@media only screen and (width: 1024px) {
+	
+	.mCSB_inside > .mCSB_container{ margin-right: 10px; }	
+}
+
+@media only screen and (width: 800px) {
+.body-wrapper{
+	height:auto;
+}
+
+.mCSB_inside > .mCSB_container{ margin-right: 18px; }
+
+
+
+}

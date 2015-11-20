@@ -1,0 +1,261 @@
+// JavaScript Document
+function cat1()
+{
+	document.getElementById('ip').style.display="block";
+	document.getElementById('can').style.display="none";
+	document.getElementById('bahu').style.display="none";
+	
+	document.getElementById('sports_sub_menu').style.display="block";
+	document.getElementById('candid_sub_menu').style.display="none";
+	
+	document.getElementById('first').style.display="none";
+	document.getElementById('first_c').style.display="none";
+	
+	document.getElementById('candid_color').style.color="";
+	document.getElementById('sports_color').style.color="#e4593a";
+	document.getElementById('wedding_color').style.color="";
+	document.getElementById('child_color').style.color="";
+	document.getElementById('matriminial_color').style.color="";
+	document.getElementById('portait_color').style.color="";
+	document.getElementById('pre_wed_color').style.color="";
+	document.getElementById('dest_wed_color').style.color="";
+	document.getElementById('food_color').style.color="";
+	document.getElementById('table_color').style.color="";
+	document.getElementById('social_color').style.color="";
+	document.getElementById('album_color').style.color="";
+	document.getElementById('movie_color').style.color="";
+	document.getElementById('fashion_color').style.color="";
+	
+}
+function cat2()
+{
+	document.getElementById('can').style.display="block";
+	document.getElementById('ip').style.display="none";
+	document.getElementById('bahu').style.display="none";
+	
+	document.getElementById('candid_sub_menu').style.display="block";
+	document.getElementById('sports_sub_menu').style.display="none";
+	
+	document.getElementById('first').style.display="none";
+	document.getElementById('first_c').style.display="none";
+	
+	document.getElementById('candid_color').style.color="#e4593a";
+	document.getElementById('sports_color').style.color="";
+	document.getElementById('wedding_color').style.color="";
+	document.getElementById('child_color').style.color="";
+	document.getElementById('matriminial_color').style.color="";
+	document.getElementById('portait_color').style.color="";
+	document.getElementById('pre_wed_color').style.color="";
+	document.getElementById('dest_wed_color').style.color="";
+	document.getElementById('food_color').style.color="";
+	document.getElementById('table_color').style.color="";
+	document.getElementById('social_color').style.color="";
+	document.getElementById('album_color').style.color="";
+	document.getElementById('movie_color').style.color="";
+	document.getElementById('fashion_color').style.color="";
+	
+}
+function cat3()
+{
+	document.getElementById('candid_color').style.color="";
+	document.getElementById('sports_color').style.color="";
+	document.getElementById('wedding_color').style.color="#e4593a";
+	document.getElementById('child_color').style.color="";
+	document.getElementById('matriminial_color').style.color="";
+	document.getElementById('portait_color').style.color="";
+	document.getElementById('pre_wed_color').style.color="";
+	document.getElementById('dest_wed_color').style.color="";
+	document.getElementById('food_color').style.color="";
+	document.getElementById('table_color').style.color="";
+	document.getElementById('social_color').style.color="";
+	document.getElementById('album_color').style.color="";
+	document.getElementById('movie_color').style.color="";
+	document.getElementById('fashion_color').style.color="";
+}
+function cat4()
+{
+	document.getElementById('candid_color').style.color="";
+	document.getElementById('sports_color').style.color="";
+	document.getElementById('wedding_color').style.color="";
+	document.getElementById('child_color').style.color="#e4593a";
+	document.getElementById('matriminial_color').style.color="";
+	document.getElementById('portait_color').style.color="";
+	document.getElementById('pre_wed_color').style.color="";
+	document.getElementById('dest_wed_color').style.color="";
+	document.getElementById('food_color').style.color="";
+	document.getElementById('table_color').style.color="";
+	document.getElementById('social_color').style.color="";
+	document.getElementById('album_color').style.color="";
+	document.getElementById('movie_color').style.color="";
+	document.getElementById('fashion_color').style.color="";
+}
+function cat5()
+{
+	document.getElementById('candid_color').style.color="";
+	document.getElementById('sports_color').style.color="";
+	document.getElementById('wedding_color').style.color="";
+	document.getElementById('child_color').style.color="";
+	document.getElementById('matriminial_color').style.color="#e4593a";
+	document.getElementById('portait_color').style.color="";
+	document.getElementById('pre_wed_color').style.color="";
+	document.getElementById('dest_wed_color').style.color="";
+	document.getElementById('food_color').style.color="";
+	document.getElementById('table_color').style.color="";
+	document.getElementById('social_color').style.color="";
+	document.getElementById('album_color').style.color="";
+	document.getElementById('movie_color').style.color="";
+	document.getElementById('fashion_color').style.color="";
+}
+function cat6()
+{
+	document.getElementById('candid_color').style.color="";
+	document.getElementById('sports_color').style.color="";
+	document.getElementById('wedding_color').style.color="";
+	document.getElementById('child_color').style.color="";
+	document.getElementById('matriminial_color').style.color="";
+	document.getElementById('portait_color').style.color="#e4593a";
+	document.getElementById('pre_wed_color').style.color="";
+	document.getElementById('dest_wed_color').style.color="";
+	document.getElementById('food_color').style.color="";
+	document.getElementById('table_color').style.color="";
+	document.getElementById('social_color').style.color="";
+	document.getElementById('album_color').style.color="";
+	document.getElementById('movie_color').style.color="";
+	document.getElementById('fashion_color').style.color="";
+}
+function cat7()
+{
+	document.getElementById('candid_color').style.color="";
+	document.getElementById('sports_color').style.color="";
+	document.getElementById('wedding_color').style.color="";
+	document.getElementById('child_color').style.color="";
+	document.getElementById('matriminial_color').style.color="";
+	document.getElementById('portait_color').style.color="";
+	document.getElementById('pre_wed_color').style.color="#e4593a";
+	document.getElementById('dest_wed_color').style.color="";
+	document.getElementById('food_color').style.color="";
+	document.getElementById('table_color').style.color="";
+	document.getElementById('social_color').style.color="";
+	document.getElementById('album_color').style.color="";
+	document.getElementById('movie_color').style.color="";
+	document.getElementById('fashion_color').style.color="";
+}
+function cat8()
+{
+	document.getElementById('candid_color').style.color="";
+	document.getElementById('sports_color').style.color="";
+	document.getElementById('wedding_color').style.color="";
+	document.getElementById('child_color').style.color="";
+	document.getElementById('matriminial_color').style.color="";
+	document.getElementById('portait_color').style.color="";
+	document.getElementById('pre_wed_color').style.color="";
+	document.getElementById('dest_wed_color').style.color="#e4593a";
+	document.getElementById('food_color').style.color="";
+	document.getElementById('table_color').style.color="";
+	document.getElementById('social_color').style.color="";
+	document.getElementById('album_color').style.color="";
+	document.getElementById('movie_color').style.color="";
+	document.getElementById('fashion_color').style.color="";
+}
+function cat9()
+{
+	document.getElementById('candid_color').style.color="";
+	document.getElementById('sports_color').style.color="";
+	document.getElementById('wedding_color').style.color="";
+	document.getElementById('child_color').style.color="";
+	document.getElementById('matriminial_color').style.color="";
+	document.getElementById('portait_color').style.color="";
+	document.getElementById('pre_wed_color').style.color="";
+	document.getElementById('dest_wed_color').style.color="";
+	document.getElementById('food_color').style.color="#e4593a";
+	document.getElementById('table_color').style.color="";
+	document.getElementById('social_color').style.color="";
+	document.getElementById('album_color').style.color="";
+	document.getElementById('movie_color').style.color="";
+	document.getElementById('fashion_color').style.color="";
+}
+function cat10()
+{
+	document.getElementById('candid_color').style.color="";
+	document.getElementById('sports_color').style.color="";
+	document.getElementById('wedding_color').style.color="";
+	document.getElementById('child_color').style.color="";
+	document.getElementById('matriminial_color').style.color="";
+	document.getElementById('portait_color').style.color="";
+	document.getElementById('pre_wed_color').style.color="";
+	document.getElementById('dest_wed_color').style.color="";
+	document.getElementById('food_color').style.color="";
+	document.getElementById('table_color').style.color="#e4593a";
+	document.getElementById('social_color').style.color="";
+	document.getElementById('album_color').style.color="";
+	document.getElementById('movie_color').style.color="";
+	document.getElementById('fashion_color').style.color="";
+}
+function cat11()
+{
+	document.getElementById('candid_color').style.color="";
+	document.getElementById('sports_color').style.color="";
+	document.getElementById('wedding_color').style.color="";
+	document.getElementById('child_color').style.color="";
+	document.getElementById('matriminial_color').style.color="";
+	document.getElementById('portait_color').style.color="";
+	document.getElementById('pre_wed_color').style.color="";
+	document.getElementById('dest_wed_color').style.color="";
+	document.getElementById('food_color').style.color="";
+	document.getElementById('table_color').style.color="";
+	document.getElementById('social_color').style.color="#e4593a";
+	document.getElementById('album_color').style.color="";
+	document.getElementById('movie_color').style.color="";
+	document.getElementById('fashion_color').style.color="";
+}
+function cat12()
+{
+	document.getElementById('candid_color').style.color="";
+	document.getElementById('sports_color').style.color="";
+	document.getElementById('wedding_color').style.color="";
+	document.getElementById('child_color').style.color="";
+	document.getElementById('matriminial_color').style.color="";
+	document.getElementById('portait_color').style.color="";
+	document.getElementById('pre_wed_color').style.color="";
+	document.getElementById('dest_wed_color').style.color="";
+	document.getElementById('food_color').style.color="";
+	document.getElementById('table_color').style.color="";
+	document.getElementById('social_color').style.color="";
+	document.getElementById('album_color').style.color="#e4593a";
+	document.getElementById('movie_color').style.color="";
+	document.getElementById('fashion_color').style.color="";
+}
+function cat13()
+{
+	document.getElementById('candid_color').style.color="";
+	document.getElementById('sports_color').style.color="";
+	document.getElementById('wedding_color').style.color="";
+	document.getElementById('child_color').style.color="";
+	document.getElementById('matriminial_color').style.color="";
+	document.getElementById('portait_color').style.color="";
+	document.getElementById('pre_wed_color').style.color="";
+	document.getElementById('dest_wed_color').style.color="";
+	document.getElementById('food_color').style.color="";
+	document.getElementById('table_color').style.color="";
+	document.getElementById('social_color').style.color="";
+	document.getElementById('album_color').style.color="";
+	document.getElementById('movie_color').style.color="#e4593a";
+	document.getElementById('fashion_color').style.color="";
+}
+function cat14()
+{
+	document.getElementById('candid_color').style.color="";
+	document.getElementById('sports_color').style.color="";
+	document.getElementById('wedding_color').style.color="";
+	document.getElementById('child_color').style.color="";
+	document.getElementById('matriminial_color').style.color="";
+	document.getElementById('portait_color').style.color="";
+	document.getElementById('pre_wed_color').style.color="";
+	document.getElementById('dest_wed_color').style.color="";
+	document.getElementById('food_color').style.color="";
+	document.getElementById('table_color').style.color="";
+	document.getElementById('social_color').style.color="";
+	document.getElementById('album_color').style.color="";
+	document.getElementById('movie_color').style.color="";
+	document.getElementById('fashion_color').style.color="#e4593a";
+}
